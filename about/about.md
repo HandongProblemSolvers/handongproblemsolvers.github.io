@@ -19,7 +19,7 @@ order: 1
 이후에는 일주일 동안 푼 문제에 대해 토의하는 시간을 가집니다.
 
 ### 문제풀이
-<br>
+<br></br>
 ![scoreboard]({{ site.baseurl }}/img/scoreboard.png)
 
 각 회원은 일주일마다 꾸준히 **2문제씩** 문제를 풉니다.
