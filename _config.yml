@@ -1,0 +1,31 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title:
+  en: HPS@HGU
+  ko: HPS@HGU
+email: handongproblemsovlers@gmail.com
+description:
+  en: Handong Global University Handong Problem Solver
+  ko: 한동대학교 알고리즘 학회
+index:
+  en: en
+  ko: ko
+feed:
+  en: /feed.xml
+  fr: /flux.xml
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
+twitter_username: 
+github_username: handongproblemsovlers
+
+# Build settings
+markdown: kramdown
+
+plugins:
+  - jekyll-redirect-from
