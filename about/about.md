@@ -21,7 +21,7 @@ order: 1
 ### 문제풀이
 <br>
 
-![scoreboard]({{ site.baseurl }}/img/scoreboard.png)
+![scoreboard]({{ site.baseurl }}/img/scoreboard.PNG)
 
 각 회원은 일주일마다 꾸준히 **2문제씩** 문제를 풉니다.
 실력에 따라 **Hard Class**와 **Easy Class**으로 나뉘어 문제풀이를 진행합니다.
