@@ -29,7 +29,7 @@ order: 1
 
 ## 대회 참여
 #### [ACM-ICPC(전국 대학생 프로그래밍 경시대회)](http://icpckorea.org/)
-<br>
+<br></br>
 ![scoreboard]({{ site.baseurl }}/img/icpc_logo.png)
 
 HPS의 주 목적인 대회로, 매년 가을에 열립니다.
