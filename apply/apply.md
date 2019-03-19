@@ -1,8 +1,8 @@
 ---
 layout: page
-title: 소개
+title: 지원
 permalink: /apply/
-ref: about
+ref: apply
 lang: ko
 order: 2
 ---
