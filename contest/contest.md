@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 대회
-permalink: /contest.html
+permalink: /contest/
 ref: contest
 lang: ko
 order: 100

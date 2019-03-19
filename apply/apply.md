@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 소개
-permalink: /apply.html
+permalink: /apply/
 ref: about
 lang: ko
 order: 2

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 연락처
-permalink: /contact.html
+permalink: /contact/
 ref: contact
 lang: ko
 order: 100

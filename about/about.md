@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 소개
-permalink: /about.html
+permalink: /about
 ref: about
 lang: ko
 order: 1
