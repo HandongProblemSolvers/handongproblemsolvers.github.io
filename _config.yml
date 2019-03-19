@@ -20,8 +20,8 @@ author:
   # want it.
   info:
 
-url: http://handongproblemsolvers.github.io
-baseurl: "/HPS"
+url: "http://handongproblemsolvers.github.io"
+baseurl: ""
 
 github_username: handongproblemsolvers
 
