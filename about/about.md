@@ -19,7 +19,8 @@ order: 1
 이후에는 일주일 동안 푼 문제에 대해 토의하는 시간을 가집니다.
 
 ### 문제풀이
-<br></br>
+<br>
+
 ![scoreboard]({{ site.baseurl }}/img/scoreboard.png)
 
 각 회원은 일주일마다 꾸준히 **2문제씩** 문제를 풉니다.
@@ -29,7 +30,8 @@ order: 1
 
 ## 대회 참여
 #### [ACM-ICPC(전국 대학생 프로그래밍 경시대회)](http://icpckorea.org/)
-<br></br>
+<br>
+
 ![scoreboard]({{ site.baseurl }}/img/icpc_logo.png)
 
 HPS의 주 목적인 대회로, 매년 가을에 열립니다.
