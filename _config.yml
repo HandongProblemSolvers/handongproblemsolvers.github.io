@@ -30,6 +30,8 @@ lang: ko
 
 plugins:
   - jekyll-redirect-from
+  - jekyll-paginate
+  - jekyll-feed
 
 # FROM THIS POINT ON EVERYTHING IS OPTIONAL
 
@@ -143,12 +145,13 @@ exclude: [vendor]
 highlighter: rouge
 kramdown:
   input: GFM
+
 paginate_path: "/page-:num/"
 permalink: pretty
 defaults:
   -
     scope:
-      path: ""
+      path: "/contest"
       type: "posts"
     values:
       layout: "post"
